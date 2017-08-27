@@ -1,4 +1,6 @@
 # strip-carto
+[![Coverage Status](https://coveralls.io/repos/github/HarryStevens/strip-carto/badge.svg?branch=master)](https://coveralls.io/github/HarryStevens/strip-carto?branch=master) [![Build Status](https://travis-ci.org/HarryStevens/strip-carto.svg?branch=master)](https://travis-ci.org/HarryStevens/strip-carto)
+
 Remove the `cartodb_id` from the properties of GeoJSON features.
 
 ## Installation
